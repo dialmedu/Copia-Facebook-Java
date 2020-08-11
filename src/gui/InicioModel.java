@@ -68,8 +68,7 @@ public class InicioModel extends javax.swing.JFrame{
            }
         }
     }
-    
-    
+        
     protected void setEfectHoverItem(JPanel padre){
         String AccesibleDescriptionLauncher = "hover";
         int childCount =  padre.getComponentCount();
